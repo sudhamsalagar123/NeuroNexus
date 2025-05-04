@@ -133,10 +133,12 @@ print(f"Survival prediction: {'Survived' if prediction == 1 else 'Did not surviv
 ## 📸 Screenshots
 
 ### Web Interface
-![Gradio Interface](https://placeholder.com/titanic_interface.png)
+![Image](https://github.com/user-attachments/assets/d36a5a16-126e-4c81-ad53-ee3e6e543c7a)
+
 
 ### Prediction Example
-![Prediction Example](https://placeholder.com/titanic_prediction.png)
+
+![Image](https://github.com/user-attachments/assets/21f40426-29bd-44b7-8c40-085e1f8a2461)
 
 ## 📚 Acknowledgements
 
