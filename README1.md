@@ -28,11 +28,13 @@ Embarked – Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton
 
 
 ### Screenshot 1
-![Screenshot 1](images/s1.png)
+![Image](https://github.com/user-attachments/assets/d36a5a16-126e-4c81-ad53-ee3e6e543c7a)
+
+
 
 ### Screenshot 2
-![Screenshot 2](images/s2.png)
 
+![Image](https://github.com/user-attachments/assets/21f40426-29bd-44b7-8c40-085e1f8a2461)
 
 
 
